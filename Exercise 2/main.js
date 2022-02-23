@@ -4,7 +4,7 @@
 
 function printUserInfo(user){
     console.log(user.username);
-    console.log(user.password);
-    console.log(user.isAdmin);
+    console.log(user.age);
+    console.log(user.isStudent);
 }
 
